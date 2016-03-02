@@ -1,0 +1,4 @@
+Le Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LITIS) est l'unité de recherche dans le domaine des sciences et technologies de l'information de Haute-Normandie. Il implique les trois principaux établissements d'enseignement supérieur de la région :
+- Université de Rouen
+- Université du Havre
+- Institut National des Sciences Appliquées (INSA)
