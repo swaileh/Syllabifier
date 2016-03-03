@@ -17,3 +17,9 @@ Then you may run this example:
 ```
 
 The output of the script is located in the directory **test**.
+
+## Credits
+Wassim Swaileh, Kamel Ait Mohand and Thierry Paquet. "Un Modèle syllabique pour la reconnaissance de l’écriture", CIFED 2016.
+
+## License
+This project is distributed under the terms of the GNU GPL v3.
