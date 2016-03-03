@@ -23,7 +23,6 @@ import sys
 import getopt
 import time
 import codecs
-import shutil
 import collections
 import mmap
 import optparse
@@ -38,10 +37,8 @@ sys.setdefaultencoding('utf-8')
 
 Words_List=[]
 Syllabes_List=[]
-
 Charc_List=[]
 Label_List=[]
-
 DictSyllabique=[]
 Dict=[]
 
