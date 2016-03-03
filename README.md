@@ -6,7 +6,7 @@ This code is a syllabifier for the french language. The data directory contains 
 ## Get started
 Clone the repository and make the script executable. You will need Python 2.7+ to run it.
 ```bash
-git clone https://github.com/jlerouge/Syllabifier.git
+git clone https://github.com/swaileh/Syllabifier.git
 cd Syllabifier
 chmod +x Syllabifier.py
 ```
