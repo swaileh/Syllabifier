@@ -7,6 +7,7 @@
 #
 #  Contributors:
 #        Julien Lerouge (Julien.Lerouge@litislab.fr)
+         Fabien Bonardi (fabien.bonardi@litislab.fr)
 # =============================================================================
 #
 #  Syllabifier is distributed in the hope that it will be useful, 
